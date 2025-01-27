@@ -1,0 +1,9 @@
+{
+    "pgdata": {
+        "host": "localhost",
+        "db_name": "ny_taxi_pgdata",
+        "user": "root",
+        "password": "root",
+        "port": "5433"
+    }
+}
