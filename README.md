@@ -67,3 +67,14 @@ limit 1;
 -- if the question means to get highest single tip 
 -- which was pick up zone from 'East Harlem North' on October
 ```
+
+### Question 7
+```
+terraform init 
+--initializes the working directory by downloading the required provider plugins and setting up the backend for state management
+terraform apply -auto-approve
+--automatically approves and applies the changes without requiring manual confirmation.
+terraform destroy 
+--destroys all resources that are currently being managed by Terraform.
+
+```
